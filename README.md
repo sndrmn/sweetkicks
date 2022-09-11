@@ -1,2 +1,2 @@
 # sweetkicks
-Repo for my sweetkicks site
+Repo for my sweetkicks.vmware.education site
